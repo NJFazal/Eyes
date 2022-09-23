@@ -3,7 +3,7 @@
     <body>
         <h1>Eyes</h1>
         <h2><span style='font-size:50px;'>&#10024;</span>Description:</h2>
-        <p>This is a project from week 8 of MIT EXPro. For this one we had to make a pair of eyes that follow the mouse around.</p>
+        <p>This is a project from week 8 of MIT EXPro. For this one we had to make a pair of eyes that follow the mouse around. I didn't like the original color so I made it green. Most of this week was learning CSS.</p>
         <h2><span style='font-size:50px;'>&#128187;</span>How To Run:</h2>
         <p>Simply open the HTML file and move the mouse around to watch the eyes follow your actions.</p>
         <h2><span style='font-size:50px;'>&#128679;</span>Roadmap to Future Improvements:</h2>
