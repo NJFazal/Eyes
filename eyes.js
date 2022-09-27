@@ -1,4 +1,4 @@
-<script>
+
 const balls = document.getElementsByClassName('ball');
 document.onmousemove = (event) => {
   const x = (event.clientX * 100) / window.innerWidth + '%';
@@ -10,4 +10,4 @@ document.onmousemove = (event) => {
     balls[i].transform = 'translate(-' + x + ',-' + y + ')';
   }
 };
-</script>
+
