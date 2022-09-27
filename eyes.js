@@ -1,4 +1,4 @@
-<style>
+<script>
 const balls = document.getElementsByClassName('ball');
 
 document.onmousemove = (event) => {
@@ -10,4 +10,4 @@ for (let i = 0; i < 2; i++) {
   balls[i].style.top = y;
   balls[i].transform = 'translate(-' + x + ',-' + y + ')';
 };
-</style>
+</script>
